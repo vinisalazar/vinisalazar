@@ -4,4 +4,4 @@
 - 💾  Msc. in Systems and Computer Engineering @ [UFRJ](https://ufrj.br/)
 - 🔨  Open Source enthusiast
 - 🐍  Pythonista
-- 👌🏼  PADI OWSI
+- 🌊  PADI OWSI
