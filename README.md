@@ -1,4 +1,4 @@
-### Hi, I'm Vini
+### Hi, I'm Vini (he/him)
 
 I'm interested in marine microbiology, specially microbial community ecology and functional diversity. My current work focuses on bioinformatics techniques for analysing metagenomics data.
 
