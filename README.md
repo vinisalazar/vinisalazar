@@ -4,7 +4,7 @@ Researcher, developer and aspiring marine microbiologist. Bridging the gap betwe
 
 I use Vinícius W. Salazar in formal documents and texts, and Vini Salazar for everything else.
 
-- 🦘  PhD student Melbourne Integrative Genomics @ [UniMelb](https://www.unimelb.edu.au/)
+- 🦘  PhD student [Melbourne Integrative Genomics](https://sites.research.unimelb.edu.au/integrative-genomics/) @ [UniMelb](https://www.unimelb.edu.au/)
 - 💾  Msc. Systems & Computer Engineering @ [UFRJ](https://ufrj.br/)
 - 🌱  BSc. Biological Sciences @ [UFSC](http://ufsc.br/)
 - 🔨  Maintainer Community Lead @ [The Carpentries](https://carpentries.org/)
