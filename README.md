@@ -9,4 +9,4 @@ I use Vinícius W. Salazar in formal documents and texts, and Vini Salazar for e
 - 🌱  BSc. Biological Sciences @ [UFSC](http://ufsc.br/)
 - 🔨  Maintainer and Instructor @ [The Carpentries](https://carpentries.org/)
 - 🐧  Open Source enthusiast
-- [🎓 Google Scholar](https://scholar.google.com/citations?user=P6xo0BsAAAAJ)
+- 🎓  My publications are available on my [Google Scholar profile](https://scholar.google.com/citations?user=P6xo0BsAAAAJ)
