@@ -1,6 +1,6 @@
 ### Hi, I'm Vini (he/him)
 
-Researcher, developer and aspiring marine microbiologist. Bridging the gap between metagenomics and oceanographic data.
+Microbial oceanography and research software engineering. Bridging the gap between metagenomics and oceanographic data.
 
 I use Vinícius W. Salazar in formal documents and texts, and Vini Salazar for everything else.
 
