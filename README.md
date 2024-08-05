@@ -4,6 +4,7 @@ Microbial oceanography and research software engineering. Bridging the gap betwe
 
 I use Vinícius W. Salazar in formal documents and texts, and Vini Salazar for everything else.
 
+- 🧬  Bioinformatician @ [Melbourne Bioinformatics](https://mdhs.unimelb.edu.au/melbournebioinformatics)
 - 🦘  PhD candidate @ [Melbourne Integrative Genomics](https://sites.research.unimelb.edu.au/integrative-genomics/)-[UniMelb](https://www.unimelb.edu.au/)
 - 💾  Msc. Systems & Computer Engineering @ [Coppe](https://www.coppe.ufrj.br/)-[UFRJ](https://ufrj.br/)
 - 🌱  BSc. Biological Sciences @ [UFSC](http://ufsc.br/)
